@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/bd36f22f-b5bd-4683-ac92-9767d39dbe92/resourceGroups/HarshithVeeramalla/providers/Microsoft.Web/sites/ExpressMarApp",
+    "appService.deploySubpath": "."
+}
